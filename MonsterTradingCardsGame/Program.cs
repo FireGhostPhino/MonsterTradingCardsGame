@@ -1,6 +1,6 @@
 ﻿//Author: Artner Patrick
 //Test Git
-//Test Git 2
+//Test Git 3
 namespace MonsterTradingCardsGame
 {
     internal class Program
