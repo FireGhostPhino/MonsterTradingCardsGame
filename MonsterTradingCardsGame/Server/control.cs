@@ -8,7 +8,7 @@ using System.Net.Sockets;
 
 namespace MonsterTradingCardsGame.Server
 {
-    class Control
+    internal class Control
     {
         public void ServerControl()
         {

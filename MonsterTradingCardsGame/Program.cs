@@ -7,6 +7,7 @@ namespace MonsterTradingCardsGame
     {
         static void Main(string[] args)
         {
+            Server.Control server = new Server.Control();
             
 
             /*Console.WriteLine("Programm MonsterTradingCardsGame Start!\n");
