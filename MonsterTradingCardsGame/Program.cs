@@ -7,7 +7,9 @@ namespace MonsterTradingCardsGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Programm MonsterTradingCardsGame Start!\n");
+            
+
+            /*Console.WriteLine("Programm MonsterTradingCardsGame Start!\n");
 
             Card cardMonster = new MonsterCard();
             Card cardSpell = new SpellCard();
@@ -19,7 +21,7 @@ namespace MonsterTradingCardsGame
 
             cardMonster.TestParentClass();
 
-            Console.WriteLine("\nProgramm End!");
+            Console.WriteLine("\nProgramm End!");*/
         }
     }
 }
